@@ -9,7 +9,7 @@ import UIKit
 import Alamofire
 class ViewController: UIViewController {
 
-    let URL_USER_LOGIN =  "http://192.168.64.2/phplogin/login.php"
+    let URL_USER_LOGIN =  "Type your own websever data base URL"
     
     @IBOutlet weak var labelMessage: UILabel!
     @IBOutlet weak var textFieldUserName: UITextField!
